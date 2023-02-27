@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  height: 200vh;
+  transition: color 1000 ms;
+}
+
+h1 {
+  font-size: 11rem;
+  font-family: "Tilt Warp", cursive;
+  transition: color 1000ms;
+}
+p {
+  font-size: 8rem;
+  font-family: "Tilt Warp", cursive;
+  transition: color 500ms;
+}
